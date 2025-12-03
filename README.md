@@ -54,4 +54,3 @@ To analyze real-world climate data and create meaningful visual insights that su
 
 ## 👤 Author
 **Harsh Yadav**  
-B.Tech Student | Data & Technology Enthusiast
